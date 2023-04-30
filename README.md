@@ -1,5 +1,6 @@
 # Frank-Onwudinjo
 Data Analytics
+
 Delighted to announce that I have successfully completed an introductory course on the rudiments of data analysis despite my busy packed schedule.
 DATA, DATA EVERYWHERE! #data #dataanalytics 
 
